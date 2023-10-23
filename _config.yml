@@ -1,4 +1,3 @@
-remote_theme: pages-themes/leap-day@v0.2.0
+remote_theme: pages-themes/merlot@v0.2.0
 title: [Augmented Software Visualization]
 description: [Shonan Meeting N°192]
-show_downloads: [false]
