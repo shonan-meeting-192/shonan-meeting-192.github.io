@@ -2,7 +2,7 @@
 <img src="https://shonan-meeting-192.github.io/schedule.png" alt="Date" width="25px"/> November 27 - 30, 2023 (Check-in: November 26, 2023)
  
 ## Organizers
-Leonel Merino\
+<img src="https://shonan-meeting-192.github.io/leonel.png" alt="Location" width="25px"/>Leonel Merino\
 Pontificia Universidad Catolica de Chile, Chile
 
 Craig Anslow\
