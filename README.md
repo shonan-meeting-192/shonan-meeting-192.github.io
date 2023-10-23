@@ -67,10 +67,11 @@ We also would like to describe research opportunities in using visualization to 
 19:00 Welcome Banquet
 
 ### Monday, November 27
-09:00	 Welcome, Introduction & Groups\
-09:15	 Keynote 1\
+09:00	Welcome, Introduction & Groups\
+09:15	Icebreaker\
 10:00 Break\
-10:30 Breakout Session 1\
+10:30 Keynote 1\
+11:30 Breakout Session 1\
 12:00 Lunch\
 13:00 Group Photo Shooting\
 14:00 Breakout Session 2\
@@ -106,6 +107,4 @@ We also would like to describe research opportunities in using visualization to 
 10:00 Break
 10:00 Conclusion/ Wrap-up\
 12:00 Lunch
-
 ---
-[https://shonan.nii.ac.jp/seminars/192/](https://shonan.nii.ac.jp/seminars/192/)
