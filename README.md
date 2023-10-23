@@ -104,7 +104,8 @@ We also would like to describe research opportunities in using visualization to 
 ### Thursday, November 30
 09:00 Program briefing\
 09:15 Keynote 4\
-10:00 Break
+10:00 Break\
 10:00 Conclusion/ Wrap-up\
 12:00 Lunch
+
 ---
