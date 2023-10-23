@@ -1,18 +1,19 @@
 # Augmented Software Visualization
 :round_pushpin: Shonan Village Center
+
 :date: November 27 - 30, 2023 (Check-in: November 26, 2023)
  
 ## Organizers
-Leonel Merino
+Leonel Merino\
 Pontificia Universidad Catolica de Chile, Chile
 
-Craig Anslow
+Craig Anslow\
 Victoria University of Wellington, New Zealand
 
-Takashi Ishio
+Takashi Ishio\
 Future University Hakodate, Japan
 
-Alexandre Bergel
+Alexandre Bergel\
 RelationalAI, USA
 
 ## Overview
