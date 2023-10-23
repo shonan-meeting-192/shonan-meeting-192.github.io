@@ -1,6 +1,6 @@
-:round_pushpin: Shonan Village Center
+![Location](https://shonan-meeting-192.github.io/map.png) Shonan Village Center
 
-:date: November 27 - 30, 2023 (Check-in: November 26, 2023)
+![Date](http://shonan-meeting-192.github.io/schedule.png) November 27 - 30, 2023 (Check-in: November 26, 2023)
  
 ## Organizers
 Leonel Merino\
@@ -70,7 +70,7 @@ We also would like to describe research opportunities in using visualization to 
  
 ### Tuesday, November 28
 09:00 Program briefing\
-09:15 Keynote 1\
+09:15 Keynote 2\
 10:00 Break\
 10:30 Breakout Session 4\
 12:00 Lunch\
@@ -78,7 +78,7 @@ We also would like to describe research opportunities in using visualization to 
 15:30 Break\
 16:00 Breakout Session 6\
 17:15 Groups Presentations\
-18:00 Dinner\
+18:00 Dinner
 
 ### Wednesday, November 29
 09:00	Program briefing\
@@ -87,7 +87,7 @@ We also would like to describe research opportunities in using visualization to 
 10:30 Breakout Session 5\
 12:00 Lunch\
 13:30 Excursion: Jomyoji and Hokokuji Temple\
-18:15 Main Banquet\
+18:15 Main Banquet
 
 ### Thursday, November 30
 09:00 Program briefing\
