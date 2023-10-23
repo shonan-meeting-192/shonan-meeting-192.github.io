@@ -1,4 +1,3 @@
-# Augmented Software Visualization
 :round_pushpin: Shonan Village Center
 
 :date: November 27 - 30, 2023 (Check-in: November 26, 2023)
