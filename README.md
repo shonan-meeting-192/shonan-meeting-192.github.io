@@ -2,17 +2,32 @@
 <img src="https://shonan-meeting-192.github.io/schedule.png" alt="Date" width="25px"/> November 27 - 30, 2023 (Check-in: November 26, 2023)
  
 ## Organizers
-<img src="https://shonan-meeting-192.github.io/leonel.png" alt="Location" width="25px"/>Leonel Merino\
-Pontificia Universidad Catolica de Chile, Chile
+<img src="https://shonan-meeting-192.github.io/leonel.png" alt="Location" width="90px" align="left"/>
+Leonel Merino
 
-Craig Anslow\
-Victoria University of Wellington, New Zealand
+Pontificia Universidad Catolica de Chile\
+Chile
+<br clear="left"/>
 
-Takashi Ishio\
-Future University Hakodate, Japan
+<img src="https://shonan-meeting-192.github.io/craig.png" alt="Location" width="90px"  align="left"/>
+Craig Anslow
 
-Alexandre Bergel\
-RelationalAI, USA
+Victoria University of Wellington\
+New Zealand
+
+<br clear="left"/>
+<img src="https://shonan-meeting-192.github.io/takashi.png" alt="Location" width="90px"  align="left"/>
+Takashi Ishio
+
+Future University Hakodate\
+Japan
+
+<br clear="left"/>
+<img src="https://shonan-meeting-192.github.io/alex.png" alt="Location" width="90px"  align="left"/>
+Alexandre Bergel
+
+RelationalAI\
+USA
 
 ## Participants
 Olga Baysal, Carleton University\
