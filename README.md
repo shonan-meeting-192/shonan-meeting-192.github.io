@@ -29,7 +29,7 @@ USA
 ## Participants
 Olga Baysal, Carleton University\
 Fabian Beck, University of Bamberg\
-Andrei Chis, Feenk\
+Andrei Chis, Feenk (Bern)\
 Anthony Cleve, University of Namur\
 Alexandra Diehl, University of Zurich\
 Stephan Diehl, University of Trier\
@@ -39,13 +39,16 @@ Jesús González-Barahona, Universidad Rey Juan Carlos\
 David Heidrich, DLR\
 Robert Hirschfeld, Hasso Plattner Institute, University of Potsdam\
 Adrian Hoff, IT University of Copenhagen\
-Andreas Kerren, Linkoping University\
+Andreas Kerren, Linköping University\
 Takashi Kobayashi, Tokyo Institute of Technology\
 Martin Kropp, University of Applied Sciences and Arts Northwestern Switzerland\
+Takatomi Kubo, Nara Institute of Science and Technology\
 Raula Gaikovina Kula, Nara Institute of Science and Technology\
-Michele Lanza, Università della Svizzera italiana\
+Michele Lanza, Software Institute – USI, Lugano\
 Andrian Marcus, George Mason University\
-Roberto Minelli, Università della Svizzera italiana\
+Roberto Minelli, Software Institute – USI, Lugano\
+Yoshiki Ohshima, Croquet Corporation\
+Filip Strömbäck, Linköping University
 
 
 ## Overview
