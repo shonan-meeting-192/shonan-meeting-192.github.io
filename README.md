@@ -1,4 +1,5 @@
 ## Meeting
+
 <img src="https://shonan-meeting-192.github.io/map.png" alt="Location" width="25px"/> [Shonan Village Center](https://www.shonan-village.co.jp/eng/)\
 <img src="https://shonan-meeting-192.github.io/schedule.png" alt="Date" width="25px"/> November 27 - 30, 2023 (Check-in: November 26, 2023)
  
@@ -25,8 +26,10 @@ Japan
 Alexandre Bergel\
 RelationalAI\
 USA
+<br clear="left"/>
 
 ## Participants
+
 Olga Baysal, Carleton University\
 Fabian Beck, University of Bamberg\
 Andrei Chis, Feenk (Bern)\
@@ -49,7 +52,7 @@ Andrian Marcus, George Mason University\
 Roberto Minelli, Software Institute – USI, Lugano\
 Yoshiki Ohshima, Croquet Corporation\
 Filip Strömbäck, Linköping University
-
+<br clear="left"/>
 
 ## Overview
 
@@ -64,6 +67,19 @@ The goal of the Shonan meeting is to reflect on the following challenges of soft
 **Software Complexity.** Software systems have reached a complexity that humanity has never experienced before. The evolution of hardware and software exposition to a large audience has contributed to the increasing complexity of software systems. Nowadays, software systems are written in numerous programming languages and run on many executing platforms. As such, making software visualizations able to cope with the complexity is challenging. We ask: How can visualizations deal with the increasing complexity of software systems?
 The results of the discussions will be collected as recommendations for using sensory augmentation to support software development activities. In particular, we would like to elaborate on the strengths and weaknesses of technologies, application domains, and implications for user evaluations. Finally, we would like to define guidelines for using cognitive methods in user evaluations. Concretely, we could (1) identify cognitive aspects that can play a role in user evaluations, (2) describe available data collection methods suitable for the analysis of those aspects, and (3) elaborate on how can researcher use those methods in practice.
 We also would like to describe research opportunities in using visualization to deal with software complexity. Specifically, we plan to outline project ideas of various sizes (e.g., paper project ideas, bachelor and master project ideas, and ideas for larger projects) that could be eventually funded and then realized by the community in the future.
+<br clear="left"/>
+
+## Keynotes
+
+### "Showcases of Human-centered Visualization Research Relevant for Augmented SoftVis", [Andreas Kerren](https://liu.se/en/employee/andke01)
+<img src="https://liu.se/-/media/employeeimages/01/employee_image_andke01.jpeg" alt="Andreas Kerren" width="180px"  align="left"/>
+<b>Abstract:</b> My talk will overview our research in information visualization, human-computer interaction, and immersive analytics which may be relevant for reaching the goals of this Shonan meeting. I will exemplify solutions that my research groups at Linnaeus and Linköping Universities have developed over the past years. They cover areas such as explainable AI, Vis4ML, technologies for emotion-enhanced interaction, and collaborative immersive analytics systems. All together I hope that this talk can serve as a starting point for further discussions and the identification of a research agenda in augmented software visualization.\
+<br clear="left"/>
+
+### TBD, [Robert Hirschfeld](https://www.hirschfeld.org/)
+<img src="https://hpi.de/fileadmin/_processed_/c/e/csm_robert_hirschfeld_preview_1200x900_790b4689a7.jpg" alt="Robert Hirschfeld" width="180px"  align="left"/>
+<b>Abstract:</b> TBD
+<br clear="left"/>
 
 ## Time Table
 ### Sunday, November 26
@@ -110,5 +126,3 @@ We also would like to describe research opportunities in using visualization to 
 10:00 Break\
 10:00 Conclusion/ Wrap-up\
 12:00 Lunch
-
----
