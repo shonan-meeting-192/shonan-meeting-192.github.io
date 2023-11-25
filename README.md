@@ -76,9 +76,8 @@ We also would like to describe research opportunities in using visualization to 
 <b>Abstract:</b> My talk will overview our research in information visualization, human-computer interaction, and immersive analytics which may be relevant for reaching the goals of this Shonan meeting. I will exemplify solutions that my research groups at Linnaeus and Linköping Universities have developed over the past years. They cover areas such as explainable AI, Vis4ML, technologies for emotion-enhanced interaction, and collaborative immersive analytics systems. All together I hope that this talk can serve as a starting point for further discussions and the identification of a research agenda in augmented software visualization.\
 <br clear="left"/>
 
-### TBD, [Robert Hirschfeld](https://www.hirschfeld.org/)
+### "Example-based Live, Exploratory Programming", [Robert Hirschfeld](https://www.hirschfeld.org/)
 <img src="https://hpi.de/fileadmin/_processed_/c/e/csm_robert_hirschfeld_preview_1200x900_790b4689a7.jpg" alt="Robert Hirschfeld" width="180px"  align="left"/>
-<b>Abstract:</b> TBD
 <br clear="left"/>
 
 ## Time Table
@@ -89,7 +88,7 @@ We also would like to describe research opportunities in using visualization to 
 09:00	Welcome, Introduction & Groups\
 09:15	Icebreaker\
 10:00 Break\
-10:30 Keynote 1\
+10:30 Keynote: "Showcases of Human-centered Visualization Research Relevant for Augmented SoftVis", Andreas Kerren\
 11:30 Breakout Session 1\
 12:00 Lunch\
 13:00 Group Photo Shooting\
@@ -101,7 +100,7 @@ We also would like to describe research opportunities in using visualization to 
  
 ### Tuesday, November 28
 09:00 Program briefing\
-09:15 Keynote 2\
+09:15 Keynote: "Example-based Live, Exploratory Programming", Robert Hirschfeld\
 10:00 Break\
 10:30 Breakout Session 4\
 12:00 Lunch\
