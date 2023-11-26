@@ -85,16 +85,15 @@ We also would like to describe research opportunities in using visualization to 
 19:00 Welcome Banquet
 
 ### Monday, November 27
-09:00	Welcome, Introduction & Groups\
-09:15	Icebreaker\
+09:00	Welcome\
+09:15 Keynote: "Showcases of Human-centered Visualization Research Relevant for Augmented SoftVis", Andreas Kerren\
 10:00 Break\
-10:30 Keynote: "Showcases of Human-centered Visualization Research Relevant for Augmented SoftVis", Andreas Kerren\
-11:30 Breakout Session 1\
+10:30 Lightning Talks\
 12:00 Lunch\
-13:00 Group Photo Shooting\
-14:00 Breakout Session 2\
+13:30 Group Photo Shooting\
+14:00 Breakout Session 1\
 15:30 Break\
-16:00 Breakout Session 3\
+16:00 Breakout Session 2\
 17:15 Groups Presentations\
 18:00 Dinner
  
@@ -102,26 +101,26 @@ We also would like to describe research opportunities in using visualization to 
 09:00 Program briefing\
 09:15 Keynote: "Example-based Live, Exploratory Programming", Robert Hirschfeld\
 10:00 Break\
-10:30 Breakout Session 4\
+10:30 Breakout Session 3\
 12:00 Lunch\
-13:30 Breakout Session 5\
+13:30 Breakout Session 4\
 15:30 Break\
-16:00 Breakout Session 6\
+16:00 Breakout Session 5\
 17:15 Groups Presentations\
 18:00 Dinner
 
 ### Wednesday, November 29
 09:00	Program briefing\
-09:15 Keynote 3\
+09:15 Breakout Session 5\
 10:00 Break\
-10:30 Breakout Session 5\
+10:30 Breakout Session 6\
 12:00 Lunch\
 13:30 Excursion: Jomyoji and Hokokuji Temple\
 18:15 Main Banquet
 
 ### Thursday, November 30
 09:00 Program briefing\
-09:15 Keynote 4\
+09:15 Breakout Session 7\
 10:00 Break\
 10:00 Conclusion/ Wrap-up\
 12:00 Lunch
