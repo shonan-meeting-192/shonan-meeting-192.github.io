@@ -105,8 +105,8 @@ We also would like to describe research opportunities in using visualization to 
 12:00 Lunch\
 13:30 Breakout Session 4\
 15:30 Break\
-16:00 Breakout Session 5\
-17:15 Groups Presentations\
+16:00 Group Presentations\
+16:30 Informal Demo Session\
 18:00 Dinner
 
 ### Wednesday, November 29
