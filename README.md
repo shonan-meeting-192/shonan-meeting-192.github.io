@@ -54,6 +54,9 @@ Yoshiki Ohshima, Croquet Corporation\
 Filip Strömbäck, Linköping University
 <br clear="left"/>
 
+<img src="https://shonan-meeting-192.github.io/Seminar192.JPG" alt="Group Photo" align="left"/>
+<br clear="left"/>
+
 ## Overview
 
 Visualization is “the use of computer-supported, interactive, visual representations of abstract data in order to amplify cognition.” Software visualization is the use of such interactive and visual representations of software data for supporting software development activities. In the last two decades, multiple studies have been published across main software engineering journals (e.g., TSE, IST, JSS, JSEP) and conferences (e.g., ICSE, FSE, ICSME, ASE, MSR), confirming software visualization as a relevant topic in software engineering research. Nowadays, the field of software visualization is at the junction of two singular situations: (1) modern software systems are developed involving multiple sophisticated techniques and exhibit an increasing complexity, and (2) a variety of sensory technologies, such as virtual and augmented reality, eye-tracking, physiological sensors, are increasingly more available to both researchers and practitioners. These sensory technologies do not only represent opportunities to investigate visualizations suitable for complex systems but also to evaluate the impact of such visualizations on human cognition. We consider this Shonan meeting to be a unique and extraordinary tool to reflect on the challenges.
