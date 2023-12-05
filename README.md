@@ -1,4 +1,4 @@
-<img src="https://shonan-meeting-192.github.io/softvis_compressed.jpg" width="80%" align="left"/>
+<img src="https://shonan-meeting-192.github.io/softvis_compressed.jpg" width="95%" align="left"/>
 <br clear="left"/>
 
 ## Meeting
@@ -57,7 +57,7 @@ Yoshiki Ohshima, Croquet Corporation\
 Filip Strömbäck, Linköping University
 <br clear="left"/>
 
-<img src="https://shonan-meeting-192.github.io/Seminar192.JPG" width="80%" alt="Group Photo" align="left"/>
+<img src="https://shonan-meeting-192.github.io/Seminar192.JPG" width="95%" alt="Group Photo" align="left"/>
 <br clear="left"/>
 
 ## Overview
