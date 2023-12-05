@@ -1,3 +1,6 @@
+<img src="https://shonan-meeting-192.github.io/softvis_compressed.jpg" width="80%" align="left"/>
+<br clear="left"/>
+
 ## Meeting
 
 <img src="https://shonan-meeting-192.github.io/map.png" alt="Location" width="25px"/> [Shonan Village Center](https://www.shonan-village.co.jp/eng/)\
@@ -54,7 +57,7 @@ Yoshiki Ohshima, Croquet Corporation\
 Filip Strömbäck, Linköping University
 <br clear="left"/>
 
-<img src="https://shonan-meeting-192.github.io/Seminar192.JPG" alt="Group Photo" align="left"/>
+<img src="https://shonan-meeting-192.github.io/Seminar192.JPG" width="80%" alt="Group Photo" align="left"/>
 <br clear="left"/>
 
 ## Overview
