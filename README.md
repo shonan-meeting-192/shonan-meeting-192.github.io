@@ -1,4 +1,4 @@
-![image](https://github.com/shonan-meeting-192/shonan-meeting-192.github.io/assets/148789769/ce42f8fd-c6a2-41ef-b595-d101217d75c7)## Meeting
+## Meeting
 
 <img src="https://shonan-meeting-192.github.io/map.png" alt="Location" width="25px"/> [Shonan Village Center](https://www.shonan-village.co.jp/eng/)\
 <img src="https://shonan-meeting-192.github.io/schedule.png" alt="Date" width="25px"/> November 27 - 30, 2023 (Check-in: November 26, 2023)
