@@ -83,7 +83,7 @@ We also would like to describe research opportunities in using visualization to 
 <br clear="left"/>
 
 ### "Babylonian-style Programming: Example-based, Live, Exploratory", [Robert Hirschfeld](https://www.hirschfeld.org/)
-<img src="https://hpi.de/fileadmin/_processed_/c/e/csm_robert_hirschfeld_preview_1200x900_790b4689a7.jpg" alt="Robert Hirschfeld" width="180px"  align="left"/>
+<img src="https://shonan-meeting-192.github.io/RobertHirschfeld-13.png" alt="Robert Hirschfeld" width="180px"  align="left"/>
 <br clear="left"/>
 
 ## Time Table
